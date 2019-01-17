@@ -1,0 +1,22 @@
+{
+    "xData": [2018-12-24","2018-12-25","2018-12-26","2018-12-27","2018-12-28","2018-12-29","2018-12-30"],
+    "datasets": [{
+
+        "data": [3,70,67,75,59,66,74],
+        "unit": "km/h",
+        "type": "line",
+        "valueDecimals": 1
+    }, {
+        "name": "Elevation",
+        "data": [49,60,65,76,67,69,89],
+        "unit": "m",
+        "type": "area",
+        "valueDecimals": 0
+    }, {
+        "name": "Heart rate",
+        "data": [3,70,67,75,59,66,74],
+        "unit": "bpm",
+        "type": "area",
+        "valueDecimals": 0
+    }]
+}
